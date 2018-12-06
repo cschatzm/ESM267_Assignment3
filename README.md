@@ -23,7 +23,7 @@ CALFIRE/BIOS:
 
 5) Finally it was submitted via link to url. 
 
-## These notes were saved here for future editing with markup script.  
+## These lines below this header were notes saved here for future editing with markup script.  
 
 - Bulleted
 - List
