@@ -7,8 +7,6 @@ Link to live site: https://cschatzm.github.io/ESM267_Assignment3/
 
 The Timber Harvest Plan (THP) regions are seen in red. They are representative of privately held timber lands primarily in Northern Ca. The federal, state, local, NGO, and tribal lands are in yellow, light green, kelly green, aqua, and blue respectively. 
 
-<iframe src="https://cschatzm.github.io/ESM267_Assignment3/" width="90%" height="400"></iframe>
-
 The framing of our project within the Californian privately-owned timberlands requires an understanding of this industry’s history within the state. In the following section, pressures experienced by the industry for both public and private land are expanded. Media has highlighted opportunities and frustrations and has even suggested solutions to wildfire risks and hazards linked with California’s timber industry. We hope to delineate the differences faced by private and public timberlands, along with the importance of developing solutions specific to each. Our project is applicable specifically to timber actions on privately-owned timberlands.
 
 California today holds over 33 million acres of forest and is dispersed among federal, state, local, and NGO agencies along with Native American tribes, private corporations, and individuals (https://ucanr.edu/sites/forestry/California_forests/). Linked with the diversity in ownership is the variety in management practices. 
