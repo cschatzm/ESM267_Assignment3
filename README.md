@@ -1,10 +1,29 @@
 # ESM 267 Assignment 3
 
-Link to live site: 
+Link to live site: https://cschatzm.github.io/ESM267_Assignment3/
 
 # Timber Harvest Planning Regions Within CA since 2010
-## As Compared With Government Agency Lands 
-### Map
+
+1) Data was collected from CALFIRE & BIOS:
+CALFIRE:
+- ownership18_2.gdb (agency gdb)
+- Cnty18_2 (county gdb)
+CALFIRE/BIOS:
+- Title Timber Harvest Plan Boundaries - Statewide [ds816]
+- Publication date 2018-04-0800:00:00
+- ftp://ftp.fire.ca.gov/forest/Statewide_Timber_Harvest/
+
+2) Map was assembled, symbolized and completed in QGIS.
+
+3) The map was then exported using qgis2web and leaflet
+  - Issues: QGIS crashed when using qgis2web interface with the complete THP harvest dataset. 
+    I had to use a subset and a very simple map to make the program export completely. 
+
+4) The map was imbedded using iframe. 
+
+5) Finally it was submitted via link to url. 
+
+## These notes were saved here for future editing with markup script.  
 
 - Bulleted
 - List
