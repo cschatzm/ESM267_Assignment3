@@ -1,6 +1,6 @@
 ## ESM 267 Assignment 3
 
-Courtney Schatzman
+Author: Courtney Schatzman <br/>
 Link to live site: https://cschatzm.github.io/ESM267_Assignment3/
 
 # California State Timber Harvest Planning Regions Since 2010 Compared with Government Agency Controlled Lands
@@ -27,7 +27,7 @@ Thirty percent (30%) of the forested land is considered timberland - “forests 
 
 ### Data References
 
-1) Data was collected from CALFIRE & BIOS:
+Data was collected from CALFIRE & BIOS:
 - ownership18_2.gdb (agency gdb)
 - Cnty18_2 (county gdb)
 - Title Timber Harvest Plan Boundaries - Statewide [ds816]
