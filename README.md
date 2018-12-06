@@ -28,10 +28,8 @@ Thirty percent (30%) of the forested land is considered timberland - “forests 
 ### Data References
 
 1) Data was collected from CALFIRE & BIOS:
-CALFIRE:
 - ownership18_2.gdb (agency gdb)
 - Cnty18_2 (county gdb)
-CALFIRE/BIOS:
 - Title Timber Harvest Plan Boundaries - Statewide [ds816]
 - Publication date 2018-04-0800:00:00
 - ftp://ftp.fire.ca.gov/forest/Statewide_Timber_Harvest/
