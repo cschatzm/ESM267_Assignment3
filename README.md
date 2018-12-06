@@ -1,8 +1,13 @@
-# ESM 267 Assignment 3
+## ESM 267 Assignment 3
 
+Courtney Schatzman
 Link to live site: https://cschatzm.github.io/ESM267_Assignment3/
 
-# Timber Harvest Planning Regions Within CA since 2010
+# California State Timber Harvest Planning Regions Since 2010 Compared with Government Agency Controlled Lands
+
+The Timber Harvest Plan THP regions are seen in red. They are representative of privately held timber lands primarily in Northern Ca. The federal, state, local, NGO, and tribal lands are in yellow, light green, kelly green, aqua, and blue respectively. 
+
+### Data References
 
 1) Data was collected from CALFIRE & BIOS:
 CALFIRE:
