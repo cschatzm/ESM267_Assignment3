@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Timber Harvest Planning Regions Within CA since 2010
+## As Compared With Government Agency Lands 
+### Map
 
 - Bulleted
 - List
